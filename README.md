@@ -32,5 +32,5 @@ combines the Yolo technique and OpenCV.
 STEPS TO RUN THE PROJECT:  
 1 -> Download the yoloCustom.ipynb file.  
 2 -> Install the required libraries.  
-3 -> Run the cells, it will download and run the YOLO v8 Alogorithm.  
+3 -> Run the cells, it will download and run the YOLO v8 Algorithm.  
 4 -> The results will be saved.  
